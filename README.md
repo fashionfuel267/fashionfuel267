@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shahanaj Begum
-- 👀 I’m interested in Development using ASP.NET 
-- 🌱 I’m currently working as a Software developer as well as Faculty.
+- 👀 I’m interested in Development using ASP.NET & ASP.NET Core,Angular e.t.c 
+- 🌱 I’m currently working as a Software developer as well as Faculty of IsDB Scholarship Project and founder of Powersoft IT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shahanaj89@gmail.com
 
